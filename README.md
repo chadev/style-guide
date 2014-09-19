@@ -18,5 +18,4 @@ Our color palette is made up of four primary colors.
 
 ## License
 
-The Chadev logo and other branding files is licensed under the Creative Commons
-[Attribution-NonCommercial-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/) License.
+The Chadev logo and other branding files are licensed under the Creative Commons [Attribution-NonCommercial-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/) License.
