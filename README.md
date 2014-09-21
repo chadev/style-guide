@@ -15,6 +15,10 @@ Our color palette is made up of four primary colors.
 
 [![Chadev Colors](https://raw.githubusercontent.com/chadev/style-guide/master/Graphics/Colors/Colors.png)](https://github.com/chadev/style-guide/tree/master/Graphics/Colors)
 
+## Text
+
+When mentioning Chadev in other texts, it should be capitalized.
+
 
 ## License
 
